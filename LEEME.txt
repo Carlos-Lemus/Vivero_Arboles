@@ -1,0 +1,2 @@
+Los siguientes archivos necesitan estar todos en el mismo proyecto caso contrario
+al momento de compilar surgiran errores imprevistos
